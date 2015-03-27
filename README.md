@@ -1,12 +1,12 @@
 # API Adnabod Iaith
 
-Mae'r API Adnabod Iaith yn API gwe sy'n caniatau i chi adnabod iaith testun allan o restr o 48 iaith (sy'n cynnwys Cymraeg a Saesneg).
+Mae'r API Adnabod Iaith yn API gwe sy'n caniatáu i chi adnabod iaith testun allan o restr o 48 iaith (sy'n cynnwys Cymraeg a Saesneg).
 Ehangiad syml yw'r API o'r project cod agored [Language Detection](https://code.google.com/p/language-detection/).
-Mae'r API yn ddarpariaeth rhad ac am ddim (gyda chyfyngiadau ar y nifer o alwadau yr awr).
+Mae'r API yn ddarpariaeth rad ac am ddim (gyda chyfyngiadau ar y nifer o alwadau'r awr).
 
 ## Dogfennaeth
 
-Gweler y [ffolder doc](doc/README.md) ar gyfer dogfennaeth.
+Gweler y [ffolder doc](doc/README.md) ar gyfer y ddogfennaeth.
 
 # Language Detection API
 
